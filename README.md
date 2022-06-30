@@ -1,1 +1,0 @@
-# system-management-mobile
